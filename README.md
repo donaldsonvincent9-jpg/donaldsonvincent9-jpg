@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Vincent Macodongo
 
-<!--
-**donaldsonvincent9-jpg/donaldsonvincent9-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Junior Software Engineer | Python • Java • C • SQL • HTML/CSS  
+🌍 Open to Remote Opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+I'm a software developer with a strong passion for coding and programming.
+
+I enjoy building projects, learning new technologies, and solving problems.
+
+Currently improving my skills in Python, SQL, backend concepts, and data analysis.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python  
+- Java  
+- C  
+- SQL  
+- HTML / CSS  
+
+### Tools
+- Git & GitHub  
+- VS Code  
+- IntelliJ IDEA  
+
+---
+
+## 📂 Projects
+
+### 🔹  Personal Expense Tracker (Python CLI App)
+Description 
+A command‑line application that helps users record daily expenses, categorize them, and generate simple reports.
+
+### 🔹 C Console Calculator  
+Calculator supporting basic operations with validation.
+
+### 🔹 Student Task Manager Web App 
+A simple web‑based application that allows students to create, organize, and track their daily tasks and assignments.
+
+(More projects coming soon 🚀)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Python  
+- SQL Databases  
+- Backend development  
+- APIs  
+- Data analysis  
+
+---
+
+## 📫 Contact
+
+📧 Email: macvincent12@gmail.com
+---
+
+⭐ Thanks for visiting my profile!
+
