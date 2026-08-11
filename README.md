@@ -37,11 +37,15 @@ Currently improving my skills in Python, SQL, backend concepts, and data analysi
 Description 
 A command‑line application that helps users record daily expenses, categorize them, and generate simple reports.
 
+### 🔹 C-Based HTTP Web Server with ODBC Integration
+This project creates a socket-based HTTP web server written in C that connects to an MS SQL Server database using ODBC, executes a query, and serves the results as an HTML web page.
+
 ### 🔹 C Console Calculator  
 Calculator supporting basic operations with validation.
 
 ### 🔹 Student Task Manager Web App 
 A simple web‑based application that allows students to create, organize, and track their daily tasks and assignments.
+
 
 (More projects coming soon 🚀)
 
